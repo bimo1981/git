@@ -1,3 +1,3 @@
 # Git and Github course 
 
-Crash course for Git 1
+Crash course for Git 
